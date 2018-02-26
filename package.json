@@ -1,0 +1,11 @@
+{
+  "name": "video-chat",
+  "version": "0.0.1",
+  "description": "WebRTC PubNub video chat app",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.15.1"
+  }
+}
